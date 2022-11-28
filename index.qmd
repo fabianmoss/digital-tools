@@ -1,0 +1,105 @@
+# Vorwort {.unnumbered}
+
+---
+title: "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten"
+author: Fabian C. Moss
+affiliation: Julius-Maximilians-Universität Würzburg
+---
+
+Wissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, 
+erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. 
+Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über 
+Literaturverwaltungsprogramme (Zotero) bis hin zur Software zur Notation (MuseScore) und 
+Analyse (SonicVisualizer) von Musik oder zur Versionierung von Hausarbeiten (Git) sowie Strategien 
+zur Projektorganisation. Dieses Seminar führt eine Vielzahl von nützlichen Tools ein, 
+welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Ziel ist es, 
+einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen 
+kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln. 
+
+# Projektarbeit
+
+## Projektmanagement
+
+Todoist & Google Calendar
+
+## Versionskontrolle
+
+- Git
+- GitHub / GitLab
+
+# Schreiben
+
+## Notensatz: 
+
+- MuseScore
+
+## Kollaboratives Schreiben
+
+Trennung von Inhalt, Struktur und Erscheinungsbild
+
+### GoogleDocs
+
+### Overleaf
+
+### HackMD
+
+# Lesen
+
+## Literaturrecherche: Google Scholar und Alerts
+
+## Literaturverwaltung: Zotero
+
+## Wissenschaftliche Texte lesen
+
+# Publizieren
+
+## Ablauf: Vom Schreiben bis zur Veröffentlichung
+
+### Peer review
+
+What is it? How does it usually work ? How to be a good reviewer. Anonymous or not?
+
+## Publikationstypen
+
+### Buch / Monographie
+
+### Zeitschriftenartikel
+
+### Handbuch(artikel)
+
+### Konferenzbeitrag
+
+### Blogpost
+
+## Wissenschaftliche Konferenzen
+
+## Präsentationen
+
+PowerPoint, GoogleSlides, Markdown
+
+## Notizen sammeln 
+
+Zettlr
+
+## Wissenschaftskommunikation
+
+- Twitter
+- Mastodon
+
+## Open Science und Open Access
+
+- Author Processing Charges
+
+## Daten und Metadaten
+
+### Forschungsdatenmanagement
+
+### FAIR-Prinzipien
+
+## Analyse
+
+- Audio: Sonic Visualizer
+
+- Symbolic...
+
+

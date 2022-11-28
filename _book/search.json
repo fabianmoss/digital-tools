@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "",
+    "text": "Vorwort\nWissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über Literaturverwaltungsprogramme (Zotero) bis hin zur Software zur Notation (MuseScore) und Analyse (SonicVisualizer) von Musik oder zur Versionierung von Hausarbeiten (Git) sowie Strategien zur Projektorganisation. Dieses Seminar führt eine Vielzahl von nützlichen Tools ein, welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Ziel ist es, einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln."
+  },
+  {
+    "objectID": "index.html#notensatz-musescore",
+    "href": "index.html#notensatz-musescore",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Notensatz: MuseScore",
+    "text": "Notensatz: MuseScore"
+  },
+  {
+    "objectID": "index.html#kollaboratives-schreiben",
+    "href": "index.html#kollaboratives-schreiben",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Kollaboratives Schreiben",
+    "text": "Kollaboratives Schreiben\nTrennung von Inhalt, Struktur und Erscheinungsbild\n\nGoogleDocs\n\n\nOverleaf\n\n\nHackMD"
+  },
+  {
+    "objectID": "index.html#literatur",
+    "href": "index.html#literatur",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Literatur",
+    "text": "Literatur\n\nLiteraturrecherche: Google Scholar und Alerts\n\n\nLiteraturverwaltung: Zotero"
+  },
+  {
+    "objectID": "index.html#publizieren-vom-schreiben-bis-zur-veröffentlichung",
+    "href": "index.html#publizieren-vom-schreiben-bis-zur-veröffentlichung",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Publizieren: Vom Schreiben bis zur Veröffentlichung",
+    "text": "Publizieren: Vom Schreiben bis zur Veröffentlichung\n\nKonferenzen"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "index.html#notensatz",
+    "href": "index.html#notensatz",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Notensatz:",
+    "text": "Notensatz:\n\nMuseScore"
+  },
+  {
+    "objectID": "index.html#wissenschaftliche-texte-lesen",
+    "href": "index.html#wissenschaftliche-texte-lesen",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Wissenschaftliche Texte lesen",
+    "text": "Wissenschaftliche Texte lesen"
+  },
+  {
+    "objectID": "index.html#publizieren",
+    "href": "index.html#publizieren",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Publizieren",
+    "text": "Publizieren\n\nAblauf: Vom Schreiben bis zur Veröffentlichung\n\n\nPublikationstypen\n\n\nBuch / Monographie\n\n\nZeitschriftenartikel\n\n\nHandbuch(artikel)\n\n\nKonferenzbeitrag\n\n\nBlogpost"
+  },
+  {
+    "objectID": "index.html#wissenschaftliche-konferenzen",
+    "href": "index.html#wissenschaftliche-konferenzen",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Wissenschaftliche Konferenzen",
+    "text": "Wissenschaftliche Konferenzen"
+  },
+  {
+    "objectID": "index.html#präsentationen",
+    "href": "index.html#präsentationen",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Präsentationen",
+    "text": "Präsentationen\nPowerPoint, GoogleSlides, Markdown"
+  },
+  {
+    "objectID": "index.html#notizen-sammeln",
+    "href": "index.html#notizen-sammeln",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Notizen sammeln",
+    "text": "Notizen sammeln\nZettlr"
+  },
+  {
+    "objectID": "index.html#projektmanagement",
+    "href": "index.html#projektmanagement",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Projektmanagement",
+    "text": "Projektmanagement\nTodoist & Google Calendar"
+  },
+  {
+    "objectID": "index.html#versionskontrolle",
+    "href": "index.html#versionskontrolle",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Versionskontrolle",
+    "text": "Versionskontrolle\n\nGit\nGitHub / GitLab"
+  },
+  {
+    "objectID": "index.html#wissenschaftskommunikation",
+    "href": "index.html#wissenschaftskommunikation",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Wissenschaftskommunikation",
+    "text": "Wissenschaftskommunikation\n\nTwitter\nMastodon"
+  },
+  {
+    "objectID": "index.html#open-science-und-open-access",
+    "href": "index.html#open-science-und-open-access",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Open Science und Open Access",
+    "text": "Open Science und Open Access\n\nAuthor Processing Charges"
+  },
+  {
+    "objectID": "index.html#daten-und-metadaten",
+    "href": "index.html#daten-und-metadaten",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Daten und Metadaten",
+    "text": "Daten und Metadaten\n\nForschungsdatenmanagement\n\n\nFAIR-Prinzipien"
+  },
+  {
+    "objectID": "index.html#analyse",
+    "href": "index.html#analyse",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Analyse",
+    "text": "Analyse\n\nAudio: Sonic Visualizer\nSymbolic…"
+  },
+  {
+    "objectID": "index.html#ablauf-vom-schreiben-bis-zur-veröffentlichung",
+    "href": "index.html#ablauf-vom-schreiben-bis-zur-veröffentlichung",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Ablauf: Vom Schreiben bis zur Veröffentlichung",
+    "text": "Ablauf: Vom Schreiben bis zur Veröffentlichung"
+  },
+  {
+    "objectID": "index.html#publikationstypen",
+    "href": "index.html#publikationstypen",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Publikationstypen",
+    "text": "Publikationstypen\n\nBuch / Monographie\n\n\nZeitschriftenartikel\n\n\nHandbuch(artikel)\n\n\nKonferenzbeitrag\n\n\nBlogpost"
+  },
+  {
+    "objectID": "index.html#literaturrecherche-google-scholar-und-alerts",
+    "href": "index.html#literaturrecherche-google-scholar-und-alerts",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Literaturrecherche: Google Scholar und Alerts",
+    "text": "Literaturrecherche: Google Scholar und Alerts"
+  },
+  {
+    "objectID": "index.html#literaturverwaltung-zotero",
+    "href": "index.html#literaturverwaltung-zotero",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Literaturverwaltung: Zotero",
+    "text": "Literaturverwaltung: Zotero"
+  }
+]
