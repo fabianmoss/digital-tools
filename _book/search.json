@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "",
-    "text": "Vorwort\nWissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über Literaturverwaltungsprogramme (Zotero) bis hin zur Software zur Notation (MuseScore) und Analyse (SonicVisualizer) von Musik oder zur Versionierung von Hausarbeiten (Git) sowie Strategien zur Projektorganisation. Dieses Seminar führt eine Vielzahl von nützlichen Tools ein, welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Ziel ist es, einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln."
+    "text": "Vorwort\nWissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über Literaturverwaltungsprogramme (Zotero) bis hin zur Software zur Notation (MuseScore) und Analyse (SonicVisualizer) von Musik oder zur Versionierung von Hausarbeiten (Git) sowie Strategien zur Projektorganisation. Dieses Seminar führt eine Vielzahl von nützlichen Tools ein, welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Ziel ist es, einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln.\n(Baker et al. 2020)"
   },
   {
     "objectID": "index.html#notensatz-musescore",
@@ -53,7 +53,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Baker, David John, Amy Belfi, Sarah Creel, Jessica Grahn, Erin Hannon,\nPsyche Loui, Elizabeth Hellmuth Margulis, et al. 2020. “Embracing\nAnti-Racist Practices in the Music Perception\nand Cognition Community.” Music Perception\n38 (2): 103–5. https://doi.org/10.1525/mp.2020.38.2.103.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "index.html#notensatz",
@@ -179,6 +179,6 @@
     "href": "index.html#codes-of-conduct",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Codes of Conduct",
-    "text": "Codes of Conduct\nFor example:\n\nCode of conduct of the _Music Encoding Initiative\nCode of conduct of the Music Encoding Initiative\nCode of conduct of the ISMIR 2022 conference\nEthical affirmations of the Society for Music Theory"
+    "text": "Codes of Conduct\nFor example:\n\nCode of conduct of the Music Encoding Initiative1\nCode of conduct of the ISMIR 2022 conference2\nEthical affirmations of the Society for Music Theory3\n\n\n\n\n\nBaker, David John, Amy Belfi, Sarah Creel, Jessica Grahn, Erin Hannon, Psyche Loui, Elizabeth Hellmuth Margulis, et al. 2020. “Embracing Anti-Racist Practices in the Music Perception and Cognition Community.” Music Perception 38 (2): 103–5. https://doi.org/10.1525/mp.2020.38.2.103."
   }
 ]
