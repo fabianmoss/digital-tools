@@ -144,7 +144,7 @@
     "href": "index.html#ablauf-vom-schreiben-bis-zur-veröffentlichung",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Ablauf: Vom Schreiben bis zur Veröffentlichung",
-    "text": "Ablauf: Vom Schreiben bis zur Veröffentlichung"
+    "text": "Ablauf: Vom Schreiben bis zur Veröffentlichung\n\nPeer review\nWhat is it? How does it usually work ? How to be a good reviewer. Anonymous or not?"
   },
   {
     "objectID": "index.html#publikationstypen",
@@ -166,5 +166,19 @@
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Literaturverwaltung: Zotero",
     "text": "Literaturverwaltung: Zotero"
+  },
+  {
+    "objectID": "index.html#plagiate",
+    "href": "index.html#plagiate",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Plagiate",
+    "text": "Plagiate"
+  },
+  {
+    "objectID": "index.html#codes-of-conduct",
+    "href": "index.html#codes-of-conduct",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Codes of Conduct",
+    "text": "Codes of Conduct\nFor example:\n\nCode of conduct of the _Music Encoding Initiative\nCode of conduct of the Music Encoding Initiative\nCode of conduct of the ISMIR 2022 conference\nEthical affirmations of the Society for Music Theory"
   }
 ]

@@ -102,4 +102,16 @@ Zettlr
 
 - Symbolic...
 
+# Akademische Verantwortung
+
+## Plagiate
+
+## Codes of Conduct
+
+For example:
+
+- Code of conduct of the _Music Encoding Initiative
+- Code of conduct of the [Music Encoding Initiative](https://music-encoding.org/community/code-of-conduct.html)
+- Code of conduct of the [ISMIR 2022](https://ismir2022.ismir.net/codeofconduct/) conference
+- Ethical affirmations of the [Society for Music Theory](https://societymusictheory.org/sites/default/files/governance-documents/ethical_affirmations.pdf)
 
