@@ -22,6 +22,13 @@ kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwicke
 
 Todoist & Google Calendar
 
+## Projektplanung
+
+- Beispiel Hausarbeit
+- Beispiel Bachelor-/Masterarbeit
+
+Waterfall vs agile Projektplanung
+
 ## Versionskontrolle
 
 - Git
@@ -32,16 +39,32 @@ Todoist & Google Calendar
 ## Notensatz: 
 
 - MuseScore
+- LilyPond / Frescobaldi
+- Humdrum Viewer
+- MEI (Friend)
+
+## Audio/Video
+
+- Audacity
+- VLC Player
+- SonicVisualizer
+
+## Music Theory
+
+- Hexachord
+- link zu websites
+- music21
+- librosa
+- essentia
 
 ## Kollaboratives Schreiben
 
 Trennung von Inhalt, Struktur und Erscheinungsbild
 
-### GoogleDocs
-
-### Overleaf
-
-### HackMD
+- GoogleDocs
+- Overleaf
+- HackMD
+- VS Code
 
 # Lesen
 
