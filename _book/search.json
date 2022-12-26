@@ -18,7 +18,7 @@
     "href": "index.html#kollaboratives-schreiben",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Kollaboratives Schreiben",
-    "text": "Kollaboratives Schreiben\nTrennung von Inhalt, Struktur und Erscheinungsbild\n\nGoogleDocs\n\n\nOverleaf\n\n\nHackMD"
+    "text": "Kollaboratives Schreiben\nTrennung von Inhalt, Struktur und Erscheinungsbild\n\nGoogleDocs\nOverleaf\nHackMD\nVS Code"
   },
   {
     "objectID": "index.html#literatur",
@@ -60,7 +60,7 @@
     "href": "index.html#notensatz",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Notensatz:",
-    "text": "Notensatz:\n\nMuseScore"
+    "text": "Notensatz:\n\nMuseScore\nLilyPond / Frescobaldi\nHumdrum Viewer\nMEI (Friend)"
   },
   {
     "objectID": "index.html#wissenschaftliche-texte-lesen",
@@ -109,7 +109,7 @@
     "href": "index.html#versionskontrolle",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Versionskontrolle",
-    "text": "Versionskontrolle\n\nGit\nGitHub / GitLab"
+    "text": "Versionskontrolle\n\nGit\n[XKCD comic here final.doc]\nGit probably the most popular software for version control and used in millions of software projects. Here, we’ll learn the basics of this mighty tool that can help us to manage our musicology project project.\n\nTutorials\n\nThe most comprehensive resource is the Pro Git Book\nA concise and graphical introduction to the most important stages of the git workflow can be found in git - the simple guide\nAnother visual, but more explicit reference is A Visual Git Reference\nFinally, Git Immersion is a full-fledged tutorial.\n\n\n\n\nGitHub / GitLab"
   },
   {
     "objectID": "index.html#wissenschaftskommunikation",
@@ -180,5 +180,26 @@
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Codes of Conduct",
     "text": "Codes of Conduct\nFor example:\n\nCode of conduct of the Music Encoding Initiative1\nCode of conduct of the ISMIR 2022 conference2\nEthical affirmations of the Society for Music Theory3\n\n\n\n\n\nBaker, David John, Amy Belfi, Sarah Creel, Jessica Grahn, Erin Hannon, Psyche Loui, Elizabeth Hellmuth Margulis, et al. 2020. “Embracing Anti-Racist Practices in the Music Perception and Cognition Community.” Music Perception 38 (2): 103–5. https://doi.org/10.1525/mp.2020.38.2.103."
+  },
+  {
+    "objectID": "index.html#projektplanung",
+    "href": "index.html#projektplanung",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Projektplanung",
+    "text": "Projektplanung\n\nBeispiel Hausarbeit\nBeispiel Bachelor-/Masterarbeit\n\nWaterfall vs agile Projektplanung"
+  },
+  {
+    "objectID": "index.html#audiovideo",
+    "href": "index.html#audiovideo",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Audio/Video",
+    "text": "Audio/Video\n\nAudacity\nVLC Player\nSonicVisualizer"
+  },
+  {
+    "objectID": "index.html#music-theory",
+    "href": "index.html#music-theory",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Music Theory",
+    "text": "Music Theory\n\nHexachord\nlink zu websites\nmusic21\nlibrosa\nessentia"
   }
 ]
