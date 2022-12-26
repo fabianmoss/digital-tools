@@ -31,8 +31,23 @@ Waterfall vs agile Projektplanung
 
 ## Versionskontrolle
 
-- Git
-- GitHub / GitLab
+### Git
+
+[XKCD comic here final.doc]
+
+Git probably the most popular software for version control
+and used in millions of software projects. 
+Here, we'll learn the basics of this mighty tool 
+that can help us to manage our musicology project project.
+
+#### Tutorials
+
+1. The most comprehensive resource is the [Pro Git Book](https://git-scm.com/book/en/v2)
+2. A concise and graphical introduction to the most important stages of the git workflow can be found in [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+3. Another visual, but more explicit reference is [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+4. Finally, [Git Immersion](https://gitimmersion.com/) is a full-fledged tutorial.
+
+### GitHub / GitLab
 
 # Schreiben
 
