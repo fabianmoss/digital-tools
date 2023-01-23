@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "",
-    "text": "Vorwort\nWissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über Literaturverwaltungsprogramme (Zotero) bis hin zur Software zur Notation (MuseScore) und Analyse (SonicVisualizer) von Musik oder zur Versionierung von Hausarbeiten (Git) sowie Strategien zur Projektorganisation. Dieses Seminar führt eine Vielzahl von nützlichen Tools ein, welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Ziel ist es, einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln.\n(Baker et al. 2020)"
+    "text": "Vorwort\nWissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über Literaturverwaltungsprogramme (Zotero) bis hin zur Software zur Notation (MuseScore) und Analyse (SonicVisualizer) von Musik oder zur Versionierung von Hausarbeiten (Git) sowie Strategien zur Projektorganisation. Dieses Seminar führt eine Vielzahl von nützlichen Tools ein, welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Ziel ist es, einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln.\nÜber die digitalen bzw. technischen Anforderungen an zeitgenössische (musik-)wissenschaftliche Forschung wird hier auch eingegangen auf wichtige Entwicklungen in Bezug auf das Wissenschaftssystem bzw. die Frage nach der Selbstpositionierung von Wissenschaft und die Hinterfragung herkömmlicher Praktiken.\n\n\n\nFoto von LUM3N auf Unsplash"
   },
   {
     "objectID": "index.html#notensatz-musescore",
@@ -67,7 +67,7 @@
     "href": "index.html#wissenschaftliche-texte-lesen",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Wissenschaftliche Texte lesen",
-    "text": "Wissenschaftliche Texte lesen"
+    "text": "Wissenschaftliche Texte lesen\n\n4R"
   },
   {
     "objectID": "index.html#publizieren",
@@ -95,7 +95,7 @@
     "href": "index.html#notizen-sammeln",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Notizen sammeln",
-    "text": "Notizen sammeln\nZettlr"
+    "text": "Notizen sammeln\nZettlr / Obsidian"
   },
   {
     "objectID": "index.html#projektmanagement",
@@ -109,7 +109,7 @@
     "href": "index.html#versionskontrolle",
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Versionskontrolle",
-    "text": "Versionskontrolle\n\nGit\n[XKCD comic here final.doc]\nGit probably the most popular software for version control and used in millions of software projects. Here, we’ll learn the basics of this mighty tool that can help us to manage our musicology project project.\n\nTutorials\n\nThe most comprehensive resource is the Pro Git Book\nA concise and graphical introduction to the most important stages of the git workflow can be found in git - the simple guide\nAnother visual, but more explicit reference is A Visual Git Reference\nFinally, Git Immersion is a full-fledged tutorial.\n\n\n\n\nGitHub / GitLab"
+    "text": "Versionskontrolle\n\nGit\n\n\n\n“notFinal.doc” - originally published 10/12/2012, Piled Higher and Deeper by Jorge Cham www.phdcomics.com\n\n\n\nGit probably the most popular software for version control and used in millions of software projects. Here, we’ll learn the basics of this mighty tool that can help us to manage our musicology project project.\n\nTutorials\n\nThe most comprehensive resource is the Pro Git Book\nA concise and graphical introduction to the most important stages of the git workflow can be found in git - the simple guide\nAnother visual, but more explicit reference is A Visual Git Reference\nFinally, Git Immersion is a full-fledged tutorial.\n\n\n\n\nGitHub / GitLab"
   },
   {
     "objectID": "index.html#wissenschaftskommunikation",
@@ -201,5 +201,166 @@
     "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
     "section": "Music Theory",
     "text": "Music Theory\n\nHexachord\nlink zu websites\nmusic21\nlibrosa\nessentia"
+  },
+  {
+    "objectID": "index.html#versionskontrolle-mit-git",
+    "href": "index.html#versionskontrolle-mit-git",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Versionskontrolle mit Git",
+    "text": "Versionskontrolle mit Git\nThe cartoon below depicts a situation that is probably only too well known to many of us. After weeks of hard labor writing a term paper/thesis/article, we were finally confident enough to call it a day and name the file “FINAL.doc”. However… final is often not really final, is it?\n\n\n\n“notFinal.doc” - originally published 10/12/2012, Piled Higher and Deeper by Jorge Cham www.phdcomics.com\n\n\nGit probably the most popular software for version control and used in millions of software projects. Here, we’ll learn the basics of this mighty tool that can help us to manage our musicology project project.\n\nTutorials\n\nThe most comprehensive resource is the Pro Git Book\nA concise and graphical introduction to the most important stages of the git workflow can be found in git - the simple guide\nAnother visual, but more explicit reference is A Visual Git Reference\nFinally, Git Immersion is a full-fledged tutorial."
+  },
+  {
+    "objectID": "index.html#task--und-zeitmanagement",
+    "href": "index.html#task--und-zeitmanagement",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Task- und Zeitmanagement",
+    "text": "Task- und Zeitmanagement\nTodoist & Google Calendar"
+  },
+  {
+    "objectID": "index.html#beispiele",
+    "href": "index.html#beispiele",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "Beispiele",
+    "text": "Beispiele\n\nBeispiel Hausarbeit\nBeispiel Bachelor-/Masterarbeit\n\nWaterfall vs agile Projektplanung"
+  },
+  {
+    "objectID": "index.html#github-gitlab",
+    "href": "index.html#github-gitlab",
+    "title": "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten",
+    "section": "GitHub / GitLab",
+    "text": "GitHub / GitLab\n\nArbeiten von jedem Rechner\nKollaboration (Branching-Modell)"
+  },
+  {
+    "objectID": "projektplanung.html#task--und-zeitmanagement",
+    "href": "projektplanung.html#task--und-zeitmanagement",
+    "title": "1  Projektplanung und -organisation",
+    "section": "1.1 Task- und Zeitmanagement",
+    "text": "1.1 Task- und Zeitmanagement\nTodoist & Google Calendar"
+  },
+  {
+    "objectID": "projektplanung.html#beispiele",
+    "href": "projektplanung.html#beispiele",
+    "title": "1  Projektplanung und -organisation",
+    "section": "1.2 Beispiele",
+    "text": "1.2 Beispiele\n\nBeispiel Hausarbeit\nBeispiel Bachelor-/Masterarbeit\n\nWaterfall vs agile Projektplanung"
+  },
+  {
+    "objectID": "projektplanung.html#versionskontrolle-mit-git",
+    "href": "projektplanung.html#versionskontrolle-mit-git",
+    "title": "1  Projektplanung und -organisation",
+    "section": "1.3 Versionskontrolle mit Git",
+    "text": "1.3 Versionskontrolle mit Git\nThe cartoon below depicts a situation that is probably only too well known to many of us. After weeks of hard labor writing a term paper/thesis/article, we were finally confident enough to call it a day and name the file “FINAL.doc”. However… final is often not really final, is it?\n\n\n\n“notFinal.doc” - originally published 10/12/2012, Piled Higher and Deeper by Jorge Cham www.phdcomics.com\n\n\nGit probably the most popular software for version control and used in millions of software projects. Here, we’ll learn the basics of this mighty tool that can help us to manage our musicology project project.\n\n1.3.1 Tutorials\n\nThe most comprehensive resource is the Pro Git Book\nA concise and graphical introduction to the most important stages of the git workflow can be found in git - the simple guide\nAnother visual, but more explicit reference is A Visual Git Reference\nFinally, Git Immersion is a full-fledged tutorial."
+  },
+  {
+    "objectID": "projektplanung.html#github-gitlab",
+    "href": "projektplanung.html#github-gitlab",
+    "title": "1  Projektplanung und -organisation",
+    "section": "1.4 GitHub / GitLab",
+    "text": "1.4 GitHub / GitLab\n\nArbeiten von jedem Rechner\nKollaboration (Branching-Modell)"
+  },
+  {
+    "objectID": "lesen.html#literaturrecherche-google-scholar-und-alerts",
+    "href": "lesen.html#literaturrecherche-google-scholar-und-alerts",
+    "title": "2  Lesen",
+    "section": "2.1 Literaturrecherche: Google Scholar und Alerts",
+    "text": "2.1 Literaturrecherche: Google Scholar und Alerts"
+  },
+  {
+    "objectID": "lesen.html#literaturverwaltung-zotero",
+    "href": "lesen.html#literaturverwaltung-zotero",
+    "title": "2  Lesen",
+    "section": "2.2 Literaturverwaltung: Zotero",
+    "text": "2.2 Literaturverwaltung: Zotero"
+  },
+  {
+    "objectID": "lesen.html#wissenschaftliche-texte-lesen",
+    "href": "lesen.html#wissenschaftliche-texte-lesen",
+    "title": "2  Lesen",
+    "section": "2.3 Wissenschaftliche Texte lesen",
+    "text": "2.3 Wissenschaftliche Texte lesen\n\n4R"
+  },
+  {
+    "objectID": "schreiben.html#kollaboratives-schreiben",
+    "href": "schreiben.html#kollaboratives-schreiben",
+    "title": "3  Schreiben und Analysieren",
+    "section": "3.1 Kollaboratives Schreiben",
+    "text": "3.1 Kollaboratives Schreiben\nTrennung von Inhalt, Struktur und Erscheinungsbild\n\nGoogleDocs\nOverleaf\nHackMD\nVS Code"
+  },
+  {
+    "objectID": "schreiben.html#notizen-sammeln",
+    "href": "schreiben.html#notizen-sammeln",
+    "title": "3  Schreiben und Analysieren",
+    "section": "3.2 Notizen sammeln",
+    "text": "3.2 Notizen sammeln\nZettlr / Obsidian"
+  },
+  {
+    "objectID": "schreiben.html#notensatz",
+    "href": "schreiben.html#notensatz",
+    "title": "3  Schreiben und Analysieren",
+    "section": "3.3 Notensatz:",
+    "text": "3.3 Notensatz:\n\nMuseScore\nLilyPond / Frescobaldi\nHumdrum Viewer\nMEI (Friend)"
+  },
+  {
+    "objectID": "schreiben.html#audiovideo",
+    "href": "schreiben.html#audiovideo",
+    "title": "3  Schreiben und Analysieren",
+    "section": "3.4 Audio/Video",
+    "text": "3.4 Audio/Video\n\nAudacity\nVLC Player\nSonicVisualizer"
+  },
+  {
+    "objectID": "schreiben.html#music-theory",
+    "href": "schreiben.html#music-theory",
+    "title": "3  Schreiben und Analysieren",
+    "section": "3.5 Music Theory",
+    "text": "3.5 Music Theory\n\nHexachord\nlink zu websites\nmusic21\nlibrosa\nessentia"
+  },
+  {
+    "objectID": "publizieren.html#ablauf-vom-schreiben-bis-zur-veröffentlichung",
+    "href": "publizieren.html#ablauf-vom-schreiben-bis-zur-veröffentlichung",
+    "title": "4  Publizieren und präsentieren",
+    "section": "4.1 Ablauf: Vom Schreiben bis zur Veröffentlichung",
+    "text": "4.1 Ablauf: Vom Schreiben bis zur Veröffentlichung\n\n4.1.1 Peer review\nWhat is it? How does it usually work ? How to be a good reviewer. Anonymous or not?"
+  },
+  {
+    "objectID": "publizieren.html#publikationstypen",
+    "href": "publizieren.html#publikationstypen",
+    "title": "4  Publizieren und präsentieren",
+    "section": "4.2 Publikationstypen",
+    "text": "4.2 Publikationstypen\n\n4.2.1 Buch / Monographie\n\n\n4.2.2 Zeitschriftenartikel\n\n\n4.2.3 Handbuch(artikel)\n\n\n4.2.4 Konferenzbeitrag\n\n\n4.2.5 Blogpost"
+  },
+  {
+    "objectID": "publizieren.html#wissenschaftliche-konferenzen",
+    "href": "publizieren.html#wissenschaftliche-konferenzen",
+    "title": "4  Publizieren und präsentieren",
+    "section": "4.3 Wissenschaftliche Konferenzen",
+    "text": "4.3 Wissenschaftliche Konferenzen"
+  },
+  {
+    "objectID": "publizieren.html#präsentationen",
+    "href": "publizieren.html#präsentationen",
+    "title": "4  Publizieren und präsentieren",
+    "section": "4.4 Präsentationen",
+    "text": "4.4 Präsentationen\nPowerPoint, GoogleSlides, Markdown"
+  },
+  {
+    "objectID": "verantwortung.html#plagiate",
+    "href": "verantwortung.html#plagiate",
+    "title": "5  Akademische Verantwortung",
+    "section": "5.1 Plagiate",
+    "text": "5.1 Plagiate"
+  },
+  {
+    "objectID": "verantwortung.html#codes-of-conduct",
+    "href": "verantwortung.html#codes-of-conduct",
+    "title": "5  Akademische Verantwortung",
+    "section": "5.2 Codes of Conduct",
+    "text": "5.2 Codes of Conduct\nFor example:\n\nCode of conduct of the Music Encoding Initiative1\nCode of conduct of the ISMIR 2022 conference2\nEthical affirmations of the Society for Music Theory3"
+  },
+  {
+    "objectID": "verantwortung.html#ichbinhanna",
+    "href": "verantwortung.html#ichbinhanna",
+    "title": "5  Akademische Verantwortung",
+    "section": "5.3 #ichbinhanna",
+    "text": "5.3 #ichbinhanna\n\n\n\n\nBaker, David John, Amy Belfi, Sarah Creel, Jessica Grahn, Erin Hannon, Psyche Loui, Elizabeth Hellmuth Margulis, et al. 2020. “Embracing Anti-Racist Practices in the Music Perception and Cognition Community.” Music Perception 38 (2): 103–5. https://doi.org/10.1525/mp.2020.38.2.103."
   }
 ]

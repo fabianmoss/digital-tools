@@ -1,0 +1,40 @@
+# Publizieren und präsentieren
+
+## Ablauf: Vom Schreiben bis zur Veröffentlichung
+
+### Peer review
+
+What is it? How does it usually work ? How to be a good reviewer. Anonymous or not?
+
+## Publikationstypen
+
+### Buch / Monographie
+
+### Zeitschriftenartikel
+
+### Handbuch(artikel)
+
+### Konferenzbeitrag
+
+### Blogpost
+
+## Wissenschaftliche Konferenzen
+
+## Präsentationen
+
+PowerPoint, GoogleSlides, Markdown
+
+## Wissenschaftskommunikation
+
+- Twitter
+- Mastodon
+
+## Open Science und Open Access
+
+- Author Processing Charges
+
+## Daten und Metadaten
+
+### Forschungsdatenmanagement
+
+### FAIR-Prinzipien

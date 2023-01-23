@@ -7,8 +7,11 @@ book:
   date: "11/15/2022"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - projektplanung.qmd
+    - lesen.qmd
+    - schreiben.qmd
+    - publizieren.qmd
+    - verantwortung.qmd
     - references.qmd
 
 bibliography: references.bib

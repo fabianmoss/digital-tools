@@ -1,10 +1,5 @@
 # Vorwort {.unnumbered}
 
----
-title: "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten"
-author: Fabian C. Moss
-affiliation: Julius-Maximilians-Universität Würzburg
----
 
 Wissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, 
 erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. 
@@ -16,141 +11,9 @@ welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Z
 einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen 
 kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln. 
 
-# Projektarbeit
+Über die digitalen bzw. technischen Anforderungen an zeitgenössische (musik-)wissenschaftliche Forschung
+wird hier auch eingegangen auf wichtige Entwicklungen in Bezug auf das Wissenschaftssystem bzw.
+die Frage nach der Selbstpositionierung von Wissenschaft und die Hinterfragung herkömmlicher Praktiken.
 
-## Projektmanagement
-
-Todoist & Google Calendar
-
-## Projektplanung
-
-- Beispiel Hausarbeit
-- Beispiel Bachelor-/Masterarbeit
-
-Waterfall vs agile Projektplanung
-
-## Versionskontrolle
-
-### Git
-
-[XKCD comic here final.doc]
-
-Git probably the most popular software for version control
-and used in millions of software projects. 
-Here, we'll learn the basics of this mighty tool 
-that can help us to manage our musicology project project.
-
-#### Tutorials
-
-1. The most comprehensive resource is the [Pro Git Book](https://git-scm.com/book/en/v2)
-2. A concise and graphical introduction to the most important stages of the git workflow can be found in [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-3. Another visual, but more explicit reference is [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
-4. Finally, [Git Immersion](https://gitimmersion.com/) is a full-fledged tutorial.
-
-### GitHub / GitLab
-
-# Schreiben
-
-## Notensatz: 
-
-- MuseScore
-- LilyPond / Frescobaldi
-- Humdrum Viewer
-- MEI (Friend)
-
-## Audio/Video
-
-- Audacity
-- VLC Player
-- SonicVisualizer
-
-## Music Theory
-
-- Hexachord
-- link zu websites
-- music21
-- librosa
-- essentia
-
-## Kollaboratives Schreiben
-
-Trennung von Inhalt, Struktur und Erscheinungsbild
-
-- GoogleDocs
-- Overleaf
-- HackMD
-- VS Code
-
-# Lesen
-
-## Literaturrecherche: Google Scholar und Alerts
-
-## Literaturverwaltung: Zotero
-
-## Wissenschaftliche Texte lesen
-
-# Publizieren
-
-## Ablauf: Vom Schreiben bis zur Veröffentlichung
-
-### Peer review
-
-What is it? How does it usually work ? How to be a good reviewer. Anonymous or not?
-
-## Publikationstypen
-
-### Buch / Monographie
-
-### Zeitschriftenartikel
-
-### Handbuch(artikel)
-
-### Konferenzbeitrag
-
-### Blogpost
-
-## Wissenschaftliche Konferenzen
-
-## Präsentationen
-
-PowerPoint, GoogleSlides, Markdown
-
-## Notizen sammeln 
-
-Zettlr
-
-## Wissenschaftskommunikation
-
-- Twitter
-- Mastodon
-
-## Open Science und Open Access
-
-- Author Processing Charges
-
-## Daten und Metadaten
-
-### Forschungsdatenmanagement
-
-### FAIR-Prinzipien
-
-## Analyse
-
-- Audio: Sonic Visualizer
-
-- Symbolic...
-
-# Akademische Verantwortung
-
-[@Baker2020_EmbracingAntiRacistPractices]
-
-## Plagiate
-
-## Codes of Conduct
-
-For example:
-
-- Code of conduct of the _Music Encoding Initiative_^[<https://music-encoding.org/community/code-of-conduct.html> (accessed December 6, 2023)]
-- Code of conduct of the ISMIR 2022 conference^[<https://ismir2022.ismir.net/codeofconduct/> (accessed December 6, 2023)]
-- Ethical affirmations of the _Society for Music Theory_^[<https://societymusictheory.org/sites/default/files/governance-documents/ethical_affirmations.pdf> (accessed December 6, 2023)]
-
+![Foto von <a href="https://unsplash.com/@lum3n?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">LUM3N</a> auf <a href="https://unsplash.com/de/fotos/-RBuQ2PK_L8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  ](img/lum3n--RBuQ2PK_L8-unsplash.jpg)

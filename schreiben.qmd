@@ -1,0 +1,36 @@
+# Schreiben und analysieren
+
+
+## Kollaboratives Schreiben
+
+Trennung von Inhalt, Struktur und Erscheinungsbild
+
+- GoogleDocs
+- Overleaf
+- HackMD
+- VS Code
+
+## Notizen sammeln 
+
+Zettlr / Obsidian
+
+## Notensatz: 
+
+- MuseScore
+- LilyPond / Frescobaldi
+- Humdrum Viewer
+- MEI (Friend)
+
+## Audio/Video
+
+- Audacity
+- VLC Player
+- SonicVisualizer
+
+## Music Theory
+
+- Hexachord
+- link zu websites
+- music21
+- librosa
+- essentia
