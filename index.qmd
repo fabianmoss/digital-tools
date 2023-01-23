@@ -1,6 +1,5 @@
 # Vorwort {.unnumbered}
 
-
 Wissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, 
 erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. 
 Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über 

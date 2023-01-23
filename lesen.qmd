@@ -7,3 +7,53 @@
 ## Wissenschaftliche Texte lesen
 
 - 4R
+
+## Wissenschaftliche Zeitschriften
+
+### Musikwissenschaft
+
+- Musikforschung
+- Archiv der Musikwissenschaft
+- Empirical Musicology Review
+- Musicae Scientiae
+- Journal of New Music Research
+- Music Perception: An Interdisciplinary Journal 
+- Jahrbuch der Gesellschaft für Musikpsychologie
+- Notes
+- Transactions of the International Society of Music Information Retrieval (TISMIR)
+
+### Musiktheorie 
+
+- Musiktheorie
+- ZGMTH
+- Music Theory Online
+- Music Theory Spectrum
+- Music Analysis
+- Journal of Music Theory
+- Music Theory and Analysis
+- Journal of Mathematics and Music
+- Brazilian Journal of Mathematics and Music
+- Intégral
+- ...
+
+## Wissenschaftliche Konferenzen
+
+In einigen Teilbereichen der Musikforschung ist es üblich, Forschungsergebnisse nicht 
+in begutachteten Zeitschriftenartikeln zu publizieren, sonderen neueste Fortschritte 
+auf wissenschaftlichen Konferenzen vorzustellen. Diese Beiträge sind meist von 
+geringerem Umfang (2--8 Seiten) und stellen meist eine einzige, klar umrissene Neuerung vor. 
+
+- GMTH
+- GfM
+- SysMus
+- TAGGS
+- EuroMAC
+- IMS
+- ESCOM
+- ICMPC
+- ISMIR
+- SMC
+- WoRMS
+- MEC
+- AAWM/FMA
+- ...

@@ -20,12 +20,14 @@ The cartoon below depicts a situation that is probably only too well known to ma
 After weeks of hard labor writing a term paper/thesis/article, we were finally confident enough to call it a day
 and name the file "FINAL.doc". However... final is often not _really_ final, is it?
 
-!["notFinal.doc" - originally published 10/12/2012, Piled Higher and Deeper by Jorge Cham [www.phdcomics.com](https://phdcomics.com/comics/archive_print.php?comicid=1531)](img/phd101212s.gif){width=50%}
+!["notFinal.doc" - originally published 10/12/2012, Piled Higher and Deeper by Jorge Cham [www.phdcomics.com](https://phdcomics.com/comics/archive_print.php?comicid=1531)](img/phd101212s.png){width=50%}
 
 Git probably the most popular software for version control
 and used in millions of software projects. 
 Here, we'll learn the basics of this mighty tool 
 that can help us to manage our musicology project project.
+
+![[A successful Git branching](https://nvie.com/posts/a-successful-git-branching-model/) model by Vincent Driessen](img/git_model.png)
 
 ### Tutorials
 
@@ -37,4 +39,4 @@ that can help us to manage our musicology project project.
 ## GitHub / GitLab
 
 - Arbeiten von jedem Rechner
-- Kollaboration (Branching-Modell)
+- Kollaboration

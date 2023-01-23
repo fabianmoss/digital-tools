@@ -4,12 +4,13 @@ project:
 book:
   title: "Digital Tools (nicht nur) für musikwissenschaftliches Arbeiten"
   author: "Fabian C. Moss"
-  date: "11/15/2022"
+  date: "01/23/2023"
   chapters:
     - index.qmd
     - projektplanung.qmd
     - lesen.qmd
     - schreiben.qmd
+    - analysieren.qmd
     - publizieren.qmd
     - verantwortung.qmd
     - references.qmd

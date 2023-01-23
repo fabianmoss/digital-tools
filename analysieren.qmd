@@ -1,0 +1,15 @@
+# Analysieren
+
+## Audio/Video
+
+- Audacity
+- VLC Player
+- SonicVisualizer
+
+## Music Theory
+
+- Hexachord
+- link zu websites
+- music21
+- librosa
+- essentia
