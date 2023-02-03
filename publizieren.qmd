@@ -37,4 +37,16 @@ PowerPoint, GoogleSlides, Markdown
 
 ### Forschungsdatenmanagement
 
+New academic roles:
+
+- data managers / stewards / curators
+
+Data Management Plans (DMPs)
+- [Data Stewardship Wizard](https://ds-wizard.org/)
+- [RDMkit](https://rdmkit.elixir-europe.org/)
+
+- NFDIs
+- DFG-Vorgaben data, open access etc.
+- European...
+
 ### FAIR-Prinzipien
