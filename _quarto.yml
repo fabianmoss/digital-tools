@@ -15,7 +15,7 @@ book:
     # - analysieren.qmd
     # - publizieren.qmd
     # - verantwortung.qmd
-    - references.qmd
+    # - references.qmd
 
 bibliography: references.bib
 
