@@ -7,12 +7,14 @@ book:
   date: "01/23/2023"
   chapters:
     - index.qmd
-    - projektplanung.qmd
-    - lesen.qmd
-    - schreiben.qmd
-    - analysieren.qmd
-    - publizieren.qmd
-    - verantwortung.qmd
+    - organisation.qmd
+    # - woche01.qmd
+    # - projektplanung.qmd
+    # - lesen.qmd
+    # - schreiben.qmd
+    # - analysieren.qmd
+    # - publizieren.qmd
+    # - verantwortung.qmd
     - references.qmd
 
 bibliography: references.bib
