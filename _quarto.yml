@@ -8,7 +8,7 @@ book:
   chapters:
     - index.qmd
     - organisation.qmd
-    # - woche01.qmd
+    - woche01.qmd
     # - projektplanung.qmd
     # - lesen.qmd
     # - schreiben.qmd

@@ -1,6 +1,5 @@
----
-title: Organisation
----
+# Organisation {.unnumbered}
+
 ## Ablauf
 
 Das Seminar findet donnerstags von 10-12 Uhr im CIP-Pool (Raum 107) statt.
