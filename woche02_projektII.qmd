@@ -1,0 +1,47 @@
+# Projektplanung und -management II 
+
+- Weitere Strategien
+- Definition of Done
+- Beispielimplementation in Todoist vorstellen
+- Gantt-Diagramme als Inkarnation von Waterfall-Strategien (von vielen Drittmittelgebern gefordert)
+
+<!-- # Projektplanung und -organisation
+
+Was ist ein "Projekt"? Was zeichnet es aus? "Definition of Done" (DoD).
+Herunterbrechen in kleine Tasks with DoD. Prioritäten (Eisenhower Matrix)
+
+## Task- und Zeitmanagement
+
+Todoist & Google Calendar
+
+## Beispiele
+
+- Beispiel Hausarbeit
+- Beispiel Bachelor-/Masterarbeit
+
+## Versionskontrolle mit Git
+
+The cartoon below depicts a situation that is probably only too well known to many of us.
+After weeks of hard labor writing a term paper/thesis/article, we were finally confident enough to call it a day
+and name the file "FINAL.doc". However... final is often not _really_ final, is it?
+
+!["notFinal.doc" - originally published 10/12/2012, Piled Higher and Deeper by Jorge Cham [www.phdcomics.com](https://phdcomics.com/comics/archive_print.php?comicid=1531)](img/phd101212s.png){width=50%}
+
+Git probably the most popular software for version control
+and used in millions of software projects. 
+Here, we'll learn the basics of this mighty tool 
+that can help us to manage our musicology project project.
+
+![[A successful Git branching](https://nvie.com/posts/a-successful-git-branching-model/) model by Vincent Driessen](img/git_model.png)
+
+### Tutorials
+
+1. The most comprehensive resource is the [Pro Git Book](https://git-scm.com/book/en/v2)
+2. A concise and graphical introduction to the most important stages of the git workflow can be found in [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+3. Another visual, but more explicit reference is [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+4. Finally, [Git Immersion](https://gitimmersion.com/) is a full-fledged tutorial.
+
+## GitHub / GitLab
+
+- Arbeiten von jedem Rechner
+- Kollaboration -->

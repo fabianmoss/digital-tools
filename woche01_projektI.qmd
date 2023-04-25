@@ -1,5 +1,5 @@
 ---
-title: "Projektmanagement"
+title: "# Projektplanung und -management I"
 autor: Fabian C. Moss
 ---
 
@@ -61,7 +61,7 @@ Dem gegenüber stehen modernere, so genannte agile Projektplanungs und -manageme
 die Wiederholung und stetige Verbesserung von Schritten und Prozessen im Vordergrund steht. 
 Sie zeichnen sich dadurch aus, dass Verbesserungs- und Korrekturmöglichkeiten direkt in den Planungsprozess eingebaut sind.
 
-![Waterfall vs. agiles Projektmanagement.](img/waterfall_agile.png)
+![Waterfall vs. agiles Projektmanagement; [Quelle](https://www.nimblework.com/blog/waterfall-vs-agile-project-management/).](img/waterfall_agile.png)
 
 :::{.callout-note}
 ## Quiz 
