@@ -7,7 +7,7 @@ book:
   date: "01/23/2023"
   chapters:
     - index.qmd
-    - organisation.qmd
+    - woche00_organisation.qmd
     - woche01_projektI.qmd
     - woche02_projektII.qmd
     # - projektplanung.qmd

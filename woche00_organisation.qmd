@@ -4,8 +4,8 @@
 
 Das Seminar findet donnerstags von 10-12 Uhr im CIP-Pool (Raum 107) statt.
 
-* 10:00--10:25: Vortrag
-* 10:25--11:00: Breakout
+* 10:00--10:25: Einführung
+* 10:25--11:00: Breakout    
 * 11:00--11:15: Diskussion
 * 11:15--11:30: Ausblick und Aufgaben
 
@@ -13,20 +13,20 @@ Das Seminar findet donnerstags von 10-12 Uhr im CIP-Pool (Raum 107) statt.
 
 | Nr. | Datum    | Thema                                                                                  |
 |----:|----------|:---------------------------------------------------------------------------------------|
-| 1   | 20.04.23 | Einführung; Projektplanung und -management; Versionierung                              |
-| 2   | 27.04.23 | Literaturrecherche und -verwaltung; Zitationsstandards; Lesestrategien für wiss. Texte |
-| 3   | 04.05.23 | (Kollaboratives) Schreiben; Notensatz; **erste HA: Formattierung**                     |
+| 1   | 20.04.23 | Einführung; Projektplanung und -management I                                           |
+| 2   | 27.04.23 | Projektplanung und -management II                                                      |
+| 3   | 04.05.23 | Literaturrecherche und -verwaltung; Zitationsstandards; Google Scholar;                |
 | 4   | 11.05.23 | **_entfällt (Stiftungsfest)_**                                                         |
 | 5   | 18.05.23 | **_entfällt (Christi Himmelfahrt)_**                                                   |
-| 6   | 25.05.23 | Publizieren und präsentieren; Publikationsformen (**findet online statt**)             |
+<!-- | 6   | 25.05.23 | Publizieren und präsentieren; Publikationsformen (**findet online statt**)             |
 | 7   | 01.06.23 | Analysieren I: Audio                                                                   |
 | 8   | 08.06.23 | **entfällt (Fronleichnam)**                                                            |
 | 9   | 15.06.23 | Analysieren II: Symbolisch                                                             |
 | 10  | 22.06.23 | Markdown und LaTeX                                                                     |
-| 11  | 29.06.23 | TBD                                                                                    |
-| 12  | 06.07.23 | TBD                                                                                    |
+| 11  | 29.06.23 | (Kollaboratives) Schreiben; Notensatz; ; Versionierung **erste HA: Formattierung**     |
+| 12  | 06.07.23 | Lesestrategien für wiss. Texte                                                         |
 | 13  | 13.07.23 | Wissenschaftskommunikation                                                             |
-| 14  | 20.07.23 | Akademische Verantwortung                                                              |
+| 14  | 20.07.23 | Akademische Verantwortung                                                              | -->
 
 
 : Übersicht der Termine und Themen
