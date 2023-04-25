@@ -7,17 +7,52 @@
     "text": "Vorwort\nWissenschaftliches Arbeiten, insbesondere musikwissenschaftliches Arbeiten, erfordert in zunehmendem Maße die Anwendung und Beherrschung digitaler Werkzeuge und Methoden. Diese reichen von kollaborativen Schreibumgebungen (GoogleDocs, HackMD, Overleaf) über Literaturverwaltungsprogramme (Zotero) bis hin zur Software zur Notation (MuseScore) und Analyse (SonicVisualizer) von Musik oder zur Versionierung von Hausarbeiten (Git) sowie Strategien zur Projektorganisation. Dieses Seminar führt eine Vielzahl von nützlichen Tools ein, welche uns bei unserer (musik)wissenschaftlichen Arbeit unterstützen können. Ziel ist es, einen souveränen Umgang durch praktische Anwendung zu erlangen und gleichzeitig einen kritischen Blick auf derartige Werkzeuge und ihre Vor- und Nachteile zu entwickeln.\nÜber die digitalen bzw. technischen Anforderungen an zeitgenössische (musik-)wissenschaftliche Forschung wird hier auch eingegangen auf wichtige Entwicklungen in Bezug auf das Wissenschaftssystem bzw. die Frage nach der Selbstpositionierung von Wissenschaft und die Hinterfragung herkömmlicher Praktiken.\n\n\n\nFoto von LUM3N auf Unsplash"
   },
   {
-    "objectID": "organisation.html#ablauf",
-    "href": "organisation.html#ablauf",
-    "title": "1  Organisation",
-    "section": "1.1 Ablauf",
-    "text": "1.1 Ablauf\nDas Seminar findet donnerstags von 10-12 Uhr im CIP-Pool (Raum 107) statt.\n\n10:00–10:25: Vortrag\n10:25–11:00: Breakout\n11:00–11:15: Diskussion\n11:15–11:30: Ausblick und Aufgaben"
+    "objectID": "woche00_organisation.html#ablauf",
+    "href": "woche00_organisation.html#ablauf",
+    "title": "Organisation",
+    "section": "Ablauf",
+    "text": "Ablauf\nDas Seminar findet donnerstags von 10-12 Uhr im CIP-Pool (Raum 107) statt.\n\n10:00–10:25: Einführung\n10:25–11:00: Breakout\n\n11:00–11:15: Diskussion\n11:15–11:30: Ausblick und Aufgaben"
   },
   {
-    "objectID": "organisation.html#zeitplan",
-    "href": "organisation.html#zeitplan",
-    "title": "1  Organisation",
-    "section": "1.2 Zeitplan",
-    "text": "1.2 Zeitplan\n\nÜbersicht der Termine und Themen\n\n\n\n\n\n\n\nNr.\nDatum\nThema\n\n\n\n\n1\n20.04.23\nEinführung; Projektplanung und -management; Versionierung\n\n\n2\n27.04.23\nLiteraturrecherche und -verwaltung; Zitationsstandards; Lesestrategien für wiss. Texte\n\n\n3\n04.05.23\n(Kollaboratives) Schreiben; Notensatz; erste HA: Formattierung\n\n\n4\n11.05.23\nentfällt (Stiftungsfest)\n\n\n5\n18.05.23\nentfällt (Christi Himmelfahrt)\n\n\n6\n25.05.23\nPublizieren und präsentieren; Publikationsformen (findet online statt)\n\n\n7\n01.06.23\nAnalysieren I: Audio\n\n\n8\n08.06.23\nentfällt (Fronleichnam)\n\n\n9\n15.06.23\nAnalysieren II: Symbolisch\n\n\n10\n22.06.23\nMarkdown und LaTeX\n\n\n11\n29.06.23\nTBD\n\n\n12\n06.07.23\nTBD\n\n\n13\n13.07.23\nWissenschaftskommunikation\n\n\n14\n20.07.23\nAkademische Verantwortung"
+    "objectID": "woche00_organisation.html#zeitplan",
+    "href": "woche00_organisation.html#zeitplan",
+    "title": "Organisation",
+    "section": "Zeitplan",
+    "text": "Zeitplan\n\n\n\n\n\n\n\n\nNr.\nDatum\nThema\n\n\n\n\n1\n20.04.23\nEinführung; Projektplanung und -management I\n\n\n2\n27.04.23\nProjektplanung und -management II\n\n\n3\n04.05.23\nLiteraturrecherche und -verwaltung; Zitationsstandards; Google Scholar;\n\n\n4\n11.05.23\nentfällt (Stiftungsfest)\n\n\n5\n18.05.23\nentfällt (Christi Himmelfahrt)\n\n\n\n\n: Übersicht der Termine und Themen"
+  },
+  {
+    "objectID": "woche01_projektI.html#wie-strukturiert-man-ein-projekt-vorläufig",
+    "href": "woche01_projektI.html#wie-strukturiert-man-ein-projekt-vorläufig",
+    "title": "1  Projektplanung und -management I",
+    "section": "1.1 Wie strukturiert man ein Projekt (vorläufig)",
+    "text": "1.1 Wie strukturiert man ein Projekt (vorläufig)\nBei unserem Brainstorming zum idealtypischen Verlauf des Schreibens einer Hausarbeit kamen zwei recht ähnliche Ergebnisse des Brainstormings heraus.\n\n\n\nBrainstorming-Ergebnisse.\n\n\nWir können eine ganze Reihe von Gemeinsamkeiten erkennen. Beispielsweise beginnen beide Vorschläge mit der Themenfindung."
+  },
+  {
+    "objectID": "woche01_projektI.html#was-kann-bei-einer-hausarbeit-schiefgehen",
+    "href": "woche01_projektI.html#was-kann-bei-einer-hausarbeit-schiefgehen",
+    "title": "1  Projektplanung und -management I",
+    "section": "1.2 Was kann bei einer Hausarbeit schiefgehen?",
+    "text": "1.2 Was kann bei einer Hausarbeit schiefgehen?\nAllerdings ist es sicherlich auch eine bekannte Erfahrung, dass nicht immer alles so glatt läuft, wie die beiden Strategien es darstellen.\nWas kann alles passieren, das dazu führt, dass der ursprüngliche Plan nicht aufgeht? Hier unsere Sammlung aus dem Seminar:\n\nBücher sind nicht verfügbar oder müssen per Fernleihe bestellt werden und kommen dann zu spät an\nMan verkalkuliert sich mit der Zeit und der säuberlich aufgestellte Zeitplan ist hinfällig\nViel Zeit verstreicht, weil man auf eine Antwort von Betreuer warten muss, aber keine bekommt\nComputerprogramme funktionieren anders als ursprünglich gedacht und es vergeht viel Zeit bei der Einarbeitung; möglicherweise muss sogar das Thema geändert werden\nIm Falle von Arbeit mit Social-Media-Daten kann es vorkommen, dass diese nicht mehr verfügbar sind (Posts sind gelöscht oder auf privat gestellt)\nAller Art technische Probleme (z.B. Laptop kaputt, Akku hinüber)\nBei empirischer Arbeit, z.B. Terminfindungsschwwierigkeiten mit Interview-Partnern\nStartschwierigkeiten (eigene Motivation, Disziplin, Überforderung, Schreibblockade)\nThemensuche: Wo fange ich überhaupt an?\nWährend der Arbeit in Sackgasse geraten und es muss umdisponiert werden\nKrankheit oder andere unvorhergesehene Umstände\nMangelndes Feedback / Gefühl von Isolation und mangelnder Hilfestellung\nund, und, und…\n\n\n\n\n\n\n\nTip\n\n\n\nEmbrace the chaos!"
+  },
+  {
+    "objectID": "woche01_projektI.html#eine-alternative",
+    "href": "woche01_projektI.html#eine-alternative",
+    "title": "1  Projektplanung und -management I",
+    "section": "1.3 Eine Alternative",
+    "text": "1.3 Eine Alternative\nIdealtypische, lineare Verläufe wie die oben skizzierten setzen normalerweise voraus, dass ein nächster Schritt erst angegangen werden kann, wenn der jetzige vollständig abgeschlossen ist. Dieses Verfahren wird manchmal auch als “Waterfall Strategy” bezeichnet, da man, wie bei einem Wasserfall, nicht mehr zu früheren Stadien zurückgehen kann.\nDem gegenüber stehen modernere, so genannte agile Projektplanungs und -management strategien, bei denen die Wiederholung und stetige Verbesserung von Schritten und Prozessen im Vordergrund steht. Sie zeichnen sich dadurch aus, dass Verbesserungs- und Korrekturmöglichkeiten direkt in den Planungsprozess eingebaut sind.\n\n\n\nWaterfall vs. agiles Projektmanagement; Quelle.\n\n\n\n\n\n\n\n\nQuiz\n\n\n\nEine populäre App zur Verwaltung von Aufgaben (“Tasks”) ist Todoist. Dort findet man auch Anleitungen für verschiedene Produktivitätsmethden, sowie ein Quiz, das zur Reflexion über die eigenen Bedürfnisse und Strategien anregen kann.\n\nBeantwortet die Fragen im Quiz.\nWählt eine der angebotenen Strategien aus, lest den Text und schreibe eine kurze Zusammenfassung und Bewertung."
+  },
+  {
+    "objectID": "woche01_projektI.html#einige-populäre-produktivitätsstrategien",
+    "href": "woche01_projektI.html#einige-populäre-produktivitätsstrategien",
+    "title": "1  Projektplanung und -management I",
+    "section": "1.4 Einige populäre Produktivitätsstrategien",
+    "text": "1.4 Einige populäre Produktivitätsstrategien\n\n1.4.1 Eat the frog (Stella / Achim)\n\n\n1.4.2 Zeit blockieren (Corinna / Ina)"
+  },
+  {
+    "objectID": "woche02_projektII.html",
+    "href": "woche02_projektII.html",
+    "title": "2  Projektplanung und -management II",
+    "section": "",
+    "text": "Weitere Strategien\nDefinition of Done\nBeispielimplementation in Todoist vorstellen\nGantt-Diagramme als Inkarnation von Waterfall-Strategien (von vielen Drittmittelgebern gefordert)"
   }
 ]
